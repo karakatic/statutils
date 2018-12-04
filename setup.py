@@ -2,7 +2,7 @@ import setuptools
 import os
 import logging
 
-PACKAGE_NAME = 'stat-utils'
+PACKAGE_NAME = 'statutils'
 
 
 def read_package_variable(key, filename='__init__.py'):
